@@ -1,0 +1,12 @@
+
+node_modules
+# Ignore Environment Variables!
+.env
+.env.prod
+
+cmd.txt
+
+
+# Ignore local misc files
+.DS_Store
+*.pem
